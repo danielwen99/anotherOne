@@ -64,12 +64,9 @@ const IndexPage = ({ data, location }) => {
           </article>
         </section>
 
-        <section
-          className="w-screen h-screen flex flex-col justify-evenly items-center"
-          id="fuckk"
-        >
+        <section className="w-screen h-screen" id="fuckk">
           <iframe
-            title="puppylovepc"
+            title="puppylovep"
             src="http://www.puppylovepc.com.au"
             className="w-full h-full py-10 px-24"
           ></iframe>
