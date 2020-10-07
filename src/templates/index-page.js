@@ -67,8 +67,9 @@ const IndexPage = ({ data, location }) => {
         <section className="w-screen h-screen" id="fuckk">
           <iframe
             title="puppylovep"
-            src="http://www.puppylovepc.com.au"
+            src="https://www.puppylovepc.com.au"
             className="w-full h-full py-10 px-24"
+            frameBorder="0"
           ></iframe>
         </section>
 
